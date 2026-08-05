@@ -8,14 +8,6 @@
 
 Me chamo Dheferson dos santos baia, tenho 19 anos e sou natural do Pará. Concluí o ensino médio no Eduardo angelin, Atualmente, estou cursando Eng.Software na UEPA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no tiktok "[Dhef.dev](https://www.tiktok.com/@dhefersonprogrammer)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[dhfxll](https://www.instagram.com/dhfxll/)".
 
-
-    <a href="https://github.com/">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a> 
   </a>
     <a href="https://open.spotify.com/user/31pw2ruf4ytmmlq4oz2tot6au7au?si=97d9246321b5453c">
         <img 
