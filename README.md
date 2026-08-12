@@ -17,8 +17,6 @@ Me chamo Dheferson dos santos baia, tenho 19 anos e sou natural do Pará. Conclu
         />
     </a> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dheferson&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
-
 
 
 ## `> ./status👽`
