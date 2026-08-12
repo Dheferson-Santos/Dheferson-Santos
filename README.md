@@ -1,7 +1,5 @@
 # 🧑‍💻🐧☕️ Dheferson
 
-**`Desenvolvedora FullStack`**
-
 <!--bem vindo ao meu perfil-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FFE84E&width=435&lines=bem+vindo+ao+meu+perfil;Dheferson-Santos)](https://git.io/typing-svg)
