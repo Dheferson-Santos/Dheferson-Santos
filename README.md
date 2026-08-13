@@ -43,7 +43,5 @@ Me chamo Dheferson dos santos baia, tenho 19 anos e sou natural do Pará. Conclu
 </p>
 
 <p align="center">
-  <i>May the Force be with you, live long and prosper, and don't panic!<br>
-  Have a FANTASTIC Life!<br>
-  Allons-y!</i>
+apenas um cara na net</i>
 </p>
