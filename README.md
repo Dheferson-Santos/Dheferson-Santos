@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FFE84E&width=435&lines=bem+vindo+ao+meu+perfil;Dheferson-Santos)](https://git.io/typing-svg)
 
-Me chamo Dheferson dos santos baia, tenho 20 anos e sou natural do Pará. Concluí o ensino médio no Eduardo angelin, Atualmente, estou cursando Eng.Software na UEPA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no tiktok "[Dhef.dev](https://www.tiktok.com/@dhefersonprogrammer)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[dhfxll](https://www.instagram.com/dhfxll/)".
+Me chamo Dheferson dos Santos Baia, tenho 20 anos e sou natural do Pará, concluí o ensino médio no Eduardo Angelin, atualmente estou cursando Engenharia de Software na UEPA, sou apaixonado por tecnologia e matemática, gosto de resolver problemas que me fazem pensar por dias até eu conseguir resolver através de códigos e lógica, curto muito xadrez e livros também, e jogos, e compartilho meu conhecimento através do meu canal no TikTok "[Dhef.dev](https://www.tiktok.com/@dhefersonprogrammer)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[dhfxll](https://www.instagram.com/dhfxll/)".
 
   </a>
     <a href="https://open.spotify.com/user/31pw2ruf4ytmmlq4oz2tot6au7au?si=97d9246321b5453c">
